@@ -13,61 +13,61 @@
 
 1. Создание папок Scenes, Scripts и Sprites
 
-___________________![image](https://user-images.githubusercontent.com/119228138/204898861-dd09210d-cbe3-4fc7-ac93-f4bae6075402.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204898861-dd09210d-cbe3-4fc7-ac93-f4bae6075402.png)
 
- ___________________Рис. 17.1 Папки Scenes, Scripts и Sprites
+       Рис. 17.1 Папки Scenes, Scripts и Sprites
 
 2. Объект Main Camera
 
-___________________![image](https://user-images.githubusercontent.com/119228138/204898891-b4a484f1-852f-4c7a-b63e-4d697d556148.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204898891-b4a484f1-852f-4c7a-b63e-4d697d556148.png)
 
 
- ___________________Рис. 17.2 Настройки объекта Main Camera
+        Рис. 17.2 Настройки объекта Main Camera
 
 3. Объект grid и его дочерний объект BackTile_06
 
- ___________________![image](https://user-images.githubusercontent.com/119228138/204898913-a449b8c4-145b-46e4-ae09-454cd73643bf.png)
+        ![image](https://user-images.githubusercontent.com/119228138/204898913-a449b8c4-145b-46e4-ae09-454cd73643bf.png)
 
 
- ___________________Рис. 17.3 Настройка объекта grid
+       Рис. 17.3 Настройка объекта grid
 
- ___________________![image](https://user-images.githubusercontent.com/119228138/204898947-a270c284-cf8e-47d4-b203-c5e0ffea176c.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204898947-a270c284-cf8e-47d4-b203-c5e0ffea176c.png)
 
  
- ___________________Рис. 17.4 Настройка объекта BackTile_06
+        Рис. 17.4 Настройка объекта BackTile_06
 
 4. Объект pipes и его дочерние объекты pipeGreen_10
 
- ___________________![image](https://user-images.githubusercontent.com/119228138/204898963-3dc27cea-1641-4ee0-bb06-c771e38be60e.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204898963-3dc27cea-1641-4ee0-bb06-c771e38be60e.png)
 
 
- ___________________Рис. 17.5 Настройка объекта pipes
+       Рис. 17.5 Настройка объекта pipes
 
- ___________________![image](https://user-images.githubusercontent.com/119228138/204898997-95d9881c-f87f-453b-8d68-83324f09ba0d.png)
+        ![image](https://user-images.githubusercontent.com/119228138/204898997-95d9881c-f87f-453b-8d68-83324f09ba0d.png)
 
 
- ___________________Рис. 17.6 Настройка объекта pipeGreen_10
+       Рис. 17.6 Настройка объекта pipeGreen_10
 
 5. Объект pipeGreen_22
 
-___________________![image](https://user-images.githubusercontent.com/119228138/204899015-dd5ca063-54b2-4519-b757-5b52ce42ef84.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204899015-dd5ca063-54b2-4519-b757-5b52ce42ef84.png)
 
 
- ___________________Рис. 17.7 Настройка объекта pipeGreen_22
+        Рис. 17.7 Настройка объекта pipeGreen_22
 
 6. Объект pipeGreen_05
 
-___________________![image](https://user-images.githubusercontent.com/119228138/204899063-c14ab645-9b0f-4800-ab24-83b9d9105ed4.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204899063-c14ab645-9b0f-4800-ab24-83b9d9105ed4.png)
 
 
- ___________________Рис. 17.8 Настройка объекта pipeGreen_05
+        Рис. 17.8 Настройка объекта pipeGreen_05
 
 7. Объект GameManager
 
-___________________![image](https://user-images.githubusercontent.com/119228138/204899089-d75bc8a6-7e76-497b-88a9-15dae8d4c2ba.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204899089-d75bc8a6-7e76-497b-88a9-15dae8d4c2ba.png)
 
 
- ___________________Рис. 17.9 Настройка объекта GameManager
+       Рис. 17.9 Настройка объекта GameManager
 
 ```
 8.	Скрипт GameManager
